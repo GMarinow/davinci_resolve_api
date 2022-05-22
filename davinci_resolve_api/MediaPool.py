@@ -1,5 +1,5 @@
 from __future__ import absolute_import
-from DaVinci import DaVinci
+from davinci_resolve_api.DaVinci import DaVinci
 
 class MediaPool:
     """

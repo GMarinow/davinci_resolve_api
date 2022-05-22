@@ -17,7 +17,7 @@ test_requirements = ['pytest>=3', ]
 setup(
     author="Georgi Marinov",
     author_email='georgi.marinow@gmail.com',
-    python_requires='==3.6',
+    python_requires='>=3.6',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
@@ -37,6 +37,6 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/GMarinow/davinci_resolve_api',
-    version='0.1.0',
+    version='0.2.0',
     zip_safe=False,
 )
