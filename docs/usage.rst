@@ -11,4 +11,4 @@ To use DaVinci Resolve API in a project
 
 README
 
-    C:\\ProgramData\\Blackmagic Design\\DaVinci Resolve\\Support\\Developer\\Scripting\\README.txt
+    "C:/ProgramData/Blackmagic Design/DaVinci Resolve/Support/Developer/Scripting/README.txt"
