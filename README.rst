@@ -4,7 +4,7 @@ DaVinci Resolve API
 
 
 .. image:: https://img.shields.io/pypi/v/davinci_resolve_api.svg
-        :target: https://pypi.org/project/davinci-resolve-api/
+        :target: https://pypi.org/project/davinci-resolve-api
 
 .. image:: https://readthedocs.org/projects/davinci-resolve-api/badge/?version=latest
         :target: https://davinci-resolve-api.readthedocs.io/en/latest/?version=latest
